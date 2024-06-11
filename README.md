@@ -1,5 +1,7 @@
 # Stock Market Prediction
 Prediciting Adjusted Close value.
+
+
 Machine Learning Models:
 1. LSTM
 2. GRU
